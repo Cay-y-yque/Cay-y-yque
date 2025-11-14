@@ -1,6 +1,6 @@
 <h2 align="left">Cayque - Programmer and 3d modeler</h2>
 
-<img align="right" height="150" src="https://github.com/Cay-y-yque/Cay-y-yque/blob/main/perfil.png"  />
+<img align="right" height="150" src="https://github.com/Cay-y-yque/Cay-y-yque/blob/main/perfilSemBack.png"  />
 
 ###
 
